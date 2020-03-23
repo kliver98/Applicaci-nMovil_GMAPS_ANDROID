@@ -10,3 +10,5 @@ Aplicación hecha para el curso de app moviles 2020_1 por Kliver Daniel Girón C
 6.	El botón de + sirve para agregar un marcador, en la mitad del mapa de la pantalla donde el usuario este. Este nuevo marcador, se agregará en color verde y además se podrá mover (manteniendo sostenido el marcador) a diferencia de los rojos que se añaden por ubicación cuando se buscan en la barra de la parte superior.
 7. Esta proyecto esta hecho por un estudiante, no es perfecto y tiene sus defectos por ejemplo, debe tener la ubicación encontrada del celular. Lo cual indica darle todos los permisos y debe asegurarse que le aparece el simbolo del muñeco con el aro abajo que define su posición.
 
+### Link del vídeo de muestra de funcionamiento de la aplicación
+https://drive.google.com/open?id=1_QmX8xOyWM3dm8Fgy-vijVVdV_RzyQZs
